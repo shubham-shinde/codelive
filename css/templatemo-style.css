@@ -427,7 +427,7 @@ a:hover, a:active, a:focus {
 
 #about .about-thumb,
 #about .skill-thumb {
-  padding: 22px 32px 32px 32px;
+  padding: 22px 10px 32px 10px;
 }
 
 #about .progress {
